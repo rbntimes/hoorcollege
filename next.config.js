@@ -13,5 +13,5 @@ module.exports = {
     };
   },
   assetPrefix:
-    process.env.NODE_ENV === "production" ? "/rbntimes.github.com" : ""
+    process.env.NODE_ENV === "production" ? "/rbntimes.github.io" : ""
 };
