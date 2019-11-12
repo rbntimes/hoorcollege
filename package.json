@@ -1,13 +1,21 @@
 {
-  "name": "create-next-example-app",
+  "name": "nivo-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "next export"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "next": "^9.1.3",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0"
+    "@nivo/circle-packing": "^0.59.1",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
   }
 }

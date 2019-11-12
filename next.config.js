@@ -2,9 +2,16 @@ module.exports = {
   webpack: config => {
     // Fixes npm packages that depend on `fs` module
     config.node = {
-      fs: 'empty'
-    }
+      fs: "empty"
+    };
 
-    return config
-  }
-}
+    return config;
+  },
+  exportPathMap: function() {
+    return {
+      "/": { page: "/" }
+    };
+  },
+  assetPrefix:
+    process.env.NODE_ENV === "production" ? "/rbntimes.github.com" : ""
+};
