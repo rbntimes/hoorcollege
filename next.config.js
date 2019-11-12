@@ -1,17 +1,30 @@
-module.exports = {
-  webpack: config => {
-    // Fixes npm packages that depend on `fs` module
-    config.node = {
-      fs: "empty"
-    };
+const debug = process.env.NODE_ENV !== "production";
 
-    return config;
-  },
+module.exports = {
   exportPathMap: function() {
     return {
       "/": { page: "/" }
     };
   },
-  assetPrefix:
-    process.env.NODE_ENV === "production" ? "/rbntimes.github.io" : ""
+  assetPrefix: !debug ? "/hoorcollege" : "",
+  webpack: (config, { dev }) => {
+    // Perform customizations to webpack config
+    // console.log('webpack');
+    // console.log(config.module.rules, dev);
+    config.module.rules = config.module.rules.map(rule => {
+      if (rule.loader === "babel-loader") {
+        rule.options.cacheDirectory = false;
+      }
+      return rule;
+    });
+    // Important: return the modified config
+    return config;
+  } /*,
+webpackDevMiddleware: (config) => {
+  // Perform customizations to webpack dev middleware config
+  // console.log('webpackDevMiddleware');
+  // console.log(config);
+  // Important: return the modified config
+  return config
+}, */
 };
