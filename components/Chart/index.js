@@ -58,8 +58,10 @@ const Chart = () => {
           display: flex;
           flex-direction: column;
           justify-content: center;
-          font-size: 18;
-          line-height: 21px;
+        }
+        span {
+          font-size: 16px;
+          line-height: 24px;
         }
       `}</style>
     </div>
