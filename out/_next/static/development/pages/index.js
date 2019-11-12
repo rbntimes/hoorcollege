@@ -11,15 +11,15 @@
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Reasons I like data visualisation",
-  text: "In mijn 2de jaar heb ik voor het eerst zelf goed met data gewerkt. Ookal was deze data toen nog fictief en door mijzelf gegenereed vond ik het zelf wel heel tof dat het om een database met meer dan 1.000.000 records. Toen ik daarna bij dataweek in de krochten van data.amsterdam ging zoeken en daarna ook nog voor de gemeente Amsterdam ging werken kreeg ik echt een voorliefde voor data. Hoewel data visualisaties mij aanspreken ben ik nog meer geintereseerd in de technieken om er mee te werken. Ik blijf dus het liefst aan de front-end om daar nog meer te leren over werken met data!",
+  text: "In mijn 2de jaar heb ik voor het eerst zelf goed met data gewerkt. Ookal was deze data toen nog fictief en door mijzelf gegenereed vond ik het zelf wel heel tof dat het om een database met meer dan 10.000.000 records. Toen ik daarna bij dataweek in de krochten van data.amsterdam ging zoeken en daarna ook nog voor de gemeente Amsterdam ging werken kreeg ik echt een voorliefde voor data. Hoewel data visualisaties mij aanspreken ben ik nog meer geintereseerd in de technieken om er mee te werken. Ik blijf dus het liefst aan de front-end om daar nog meer te leren over werken met data!",
   color: "hsl(32, 70%, 50%)",
   children: [{
     name: "Joe chrisman",
-    text: "Hele interessante spreker. Ik zie gewoon aan hem hoe tof hij het vindt wat hij doet en dat inspireert. ",
+    text: "Hele interessante spreker. Ik zie gewoon aan hem hoe tof hij het vindt wat hij doet en dat inspireert. Ik ben benieuwd naar zijn inbreng in de projecten die hij heeft laten zien.",
     color: "hsl(32, 70%, 50%)",
     children: [{
       name: "Clever * Franke",
-      text: "Dit is een bedrijf wat ik met groot interesse zal volgen. Ik ben namelijk zelf vorig jaar al enorm geinspireed door datavisualisatie en weet eigenlijk al zeker dat ik hier ooit al wat mee wil doen. Dit bedrijf en haar website inspireren mij",
+      text: "Dit is een bedrijf wat ik met groot interesse zal volgen. Ik ben namelijk zelf vorig jaar al enorm geinspireed door datavisualisatie en weet eigenlijk al zeker dat ik hier ooit al wat mee wil doen. Dit bedrijf en haar website inspireren mij. Zeker de omvang van de projecten vind ik leuk om te zien.",
       children: [{
         name: "van Leeuwen",
         text: 'Met een achternaam als "van Leeuwen" ben ik automatisch altijd al gefacineerd geweest met Leeuwen. Dit project intereseerde mij dus automatisch. Verder begint het bij mij al te kriebelen als ik hoor dat je reallive data vanuit afrika vergaart en dat dat ook nog eens gedaan wordt door een dier die nooit zou weten dat hij invlied heeft op een onderzoek dat duizenden kilometers verderop gedaan wordt. BIZAR',
@@ -31,18 +31,18 @@ __webpack_require__.r(__webpack_exports__);
       }, {
         name: "RedBull",
         loc: 80,
-        text: "Het Redbull x ADE project lijkt me heel erg tof om te doen. Zelf ben ik niet vies van een feestje en ben daarom erg benieuw naar mijn eigen 'pad' op een feestje. Waar was ik, wanneer danste ik wel/niet. En het lijkt me interessant om te zien wat voor biodata je allemaal zou kunnen weergeven. Verder heb ik ooit al een soort concept bedacht over feestjes met een soort eigen 'timeline' en heb daarom al eens gedacht aan feestjes x data."
+        text: "Het Redbull x ADE project lijkt me heel erg tof om te doen. Zelf ben ik niet vies van een feestje en ben daarom erg benieuw naar mijn eigen 'pad' op een feestje. Waar was ik, wanneer danste ik wel/niet. En het lijkt me interessant om te zien wat voor biodata je allemaal zou kunnen weergeven. Verder heb ik ooit al een soort concept bedacht over feestjes met een soort eigen 'timeline' en heb daarom al eens gedacht aan feestjes x data. Al is dat nooit iets geweest waar echt potentie in zat vond ik het wel leuk om er over na te denken."
       }, {
         name: "Dubai",
         loc: 10,
-        text: "Hoewel ik denk dat het project zelf echt wel tof is om te doen heb ik het zelf niet helemaal met landen als Dubai, Qatar, UEA etc. Nu scheer ik Dubai misschien teveel over een kam met Qatar maar de verhalen die ik lees over bijvoorbeeld het WK 2020 dan kan ik moeilijk goed praten wat daar gebeurt."
+        text: "Hoewel ik denk dat het project zelf echt wel tof is om te doen heb ik het zelf niet helemaal met landen als Dubai, Qatar, UEA etc. Deze landen zijn puur gebouwd op olie en er worden doorgaans niet altijd humaan omgegaan met mensenrechten. Ik pas dus."
       }]
     }, {
       name: "Verder",
       text: "Zijn werkwijze en enthousiasme spraken mij erg aan.",
       children: [{
         name: "Passie",
-        text: "Ik zie mijzelf ook wel werken met data en zag enorm veel passie voor wat hij zelf deed. Ik heb zelf ook wel eens gemerkt dat ik er in kon doorslaan, wat een gevaar is maar ook een teken van dat ik er toch wel interesse in heb. Ik kon dromen over data of op de fiets ineens nog een correlatie bedenken. Daarom denk ik dat ik er zeker iets mee wil doen",
+        text: "Ik zie mijzelf ook wel werken met data en zag enorm veel passie voor wat hij zelf deed. Ik heb zelf ook wel eens gemerkt dat ik er in kon doorslaan, wat een gevaar is maar ook een teken van dat ik er toch wel interesse in heb. Ik kon dromen over data of op de fiets ineens nog een correlatie bedenken. Daarom denk ik dat ik er zeker iets mee wil doen.",
         loc: 100
       }, {
         name: "Design",
@@ -124,14 +124,14 @@ var Chart = function Chart() {
       setDescription = _useState[1];
 
   return __jsx("div", {
-    className: "jsx-3404234822" + " " + "chartContainer",
+    className: "jsx-1385540880" + " " + "chartContainer",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-3404234822" + " " + "chart",
+    className: "jsx-1385540880" + " " + "chart",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
@@ -169,30 +169,30 @@ var Chart = function Chart() {
     },
     __self: this
   })), __jsx("div", {
-    className: "jsx-3404234822" + " " + "meta",
+    className: "jsx-1385540880" + " " + "meta",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 31
     },
     __self: this
   }, __jsx("h1", {
-    className: "jsx-3404234822",
+    className: "jsx-1385540880",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32
     },
     __self: this
   }, description.name), __jsx("span", {
-    className: "jsx-3404234822",
+    className: "jsx-1385540880",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33
     },
     __self: this
   }, description.text)), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "3404234822",
+    id: "1385540880",
     __self: this
-  }, ".chartContainer.jsx-3404234822{width:80vw;height:80vh;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);-webkit-transition:0.3s;transition:0.3s;}.chartContainer.jsx-3404234822:hover{box-shadow:0 8px 16px 0 rgba(0,0,0,0.2);}.chart.jsx-3404234822{width:70%;height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;background:white;}.meta.jsx-3404234822{width:40%;padding:20px;text-align:left;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;font-size:18;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9uODZpZXMvRG9jdW1lbnRzL3NjaG9vbC9mdW5jdGlvbmFsLXByb2dyYW1taW5nL2hvb3Jjb2xsZWdlL2NvbXBvbmVudHMvQ2hhcnQvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBa0NrQixBQUdzQixBQU9nQyxBQUlqQyxBQU9BLFVBTkUsQUFPQyxDQWxCRCxXQVlDLENBWEEsQUFrQkcsZ0JBQ0gsQ0FiZix3REFNNkIsQ0FYZSxnQkFtQnBCLHVCQWxCTix3Q0FDbEIsZUFrQnlCLFVBUk4saUJBQ25CLHdFQVFlLGFBQ2YiLCJmaWxlIjoiL1VzZXJzL244Nmllcy9Eb2N1bWVudHMvc2Nob29sL2Z1bmN0aW9uYWwtcHJvZ3JhbW1pbmcvaG9vcmNvbGxlZ2UvY29tcG9uZW50cy9DaGFydC9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IHVzZVN0YXRlIH0gZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgeyBSZXNwb25zaXZlQnViYmxlIH0gZnJvbSBcIkBuaXZvL2NpcmNsZS1wYWNraW5nXCI7XG5cbmltcG9ydCBkYXRhIGZyb20gXCIuL2RhdGFcIjtcblxuY29uc3QgQ2hhcnQgPSAoKSA9PiB7XG4gIGNvbnN0IFtkZXNjcmlwdGlvbiwgc2V0RGVzY3JpcHRpb25dID0gdXNlU3RhdGUoe1xuICAgIG5hbWU6IFwiRGF0YSB2aXN1YWxpc2F0aWUgdmFuIGhvb3Jjb2xsZWdlcyAxMS0xMS0yMDE5XCIsXG4gICAgdGV4dDpcbiAgICAgIFwiSWsgaGViIGVyIHZvb3IgZ2Vrb3plbiBtaWpuIGRhdGF2aXN1YWxpc2F0aWUgdmFuIGRlIGhvb3Jjb2xsZWdlcyB1aXQgdGUgd2Vya2VuLiBLbGlrIG9wIGRlIGJ1YmJlbHMgb20gdGUgbGV6ZW4gd2F0IGRlIHByZXNlbnRhdGllcyB2b29yIG1paiBiZXRla2VuZGUuXCJcbiAgfSk7XG5cbiAgcmV0dXJuIChcbiAgICA8ZGl2IGNsYXNzTmFtZT1cImNoYXJ0Q29udGFpbmVyXCI+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNoYXJ0XCI+XG4gICAgICAgIDxSZXNwb25zaXZlQnViYmxlXG4gICAgICAgICAgcm9vdD17ZGF0YX1cbiAgICAgICAgICBtYXJnaW49e3sgdG9wOiAyMCwgcmlnaHQ6IDIwLCBib3R0b206IDIwLCBsZWZ0OiAyMCB9fVxuICAgICAgICAgIGlkZW50aXR5PVwibmFtZVwiXG4gICAgICAgICAgdmFsdWU9XCJsb2NcIlxuICAgICAgICAgIGNvbG9ycz17eyBzY2hlbWU6IFwibml2b1wiIH19XG4gICAgICAgICAgcGFkZGluZz17Nn1cbiAgICAgICAgICBsYWJlbFRleHRDb2xvcj17eyBmcm9tOiBcImNvbG9yXCIsIG1vZGlmaWVyczogW1tcImRhcmtlclwiLCAwLjhdXSB9fVxuICAgICAgICAgIGJvcmRlcldpZHRoPXsyfVxuICAgICAgICAgIGFuaW1hdGU9e3RydWV9XG4gICAgICAgICAgbW90aW9uU3RpZmZuZXNzPXs1MH1cbiAgICAgICAgICBtb3Rpb25EYW1waW5nPXsxMn1cbiAgICAgICAgICBvbkNsaWNrPXsoeyBkYXRhIH0pID0+IGNvbnNvbGUubG9nKGRhdGEpIHx8IHNldERlc2NyaXB0aW9uKGRhdGEpfVxuICAgICAgICAvPlxuICAgICAgPC9kaXY+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cIm1ldGFcIj5cbiAgICAgICAgPGgxPntkZXNjcmlwdGlvbi5uYW1lfTwvaDE+XG4gICAgICAgIDxzcGFuPntkZXNjcmlwdGlvbi50ZXh0fTwvc3Bhbj5cbiAgICAgIDwvZGl2PlxuICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgICAuY2hhcnRDb250YWluZXIge1xuICAgICAgICAgIHdpZHRoOiA4MHZ3O1xuICAgICAgICAgIGhlaWdodDogODB2aDtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGJveC1zaGFkb3c6IDAgNHB4IDhweCAwIHJnYmEoMCwgMCwgMCwgMC4yKTtcbiAgICAgICAgICB0cmFuc2l0aW9uOiAwLjNzO1xuICAgICAgICB9XG4gICAgICAgIC5jaGFydENvbnRhaW5lcjpob3ZlciB7XG4gICAgICAgICAgYm94LXNoYWRvdzogMCA4cHggMTZweCAwIHJnYmEoMCwgMCwgMCwgMC4yKTtcbiAgICAgICAgfVxuXG4gICAgICAgIC5jaGFydCB7XG4gICAgICAgICAgd2lkdGg6IDcwJTtcbiAgICAgICAgICBoZWlnaHQ6IDEwMCU7XG4gICAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtc3RhcnQ7XG4gICAgICAgICAgYmFja2dyb3VuZDogd2hpdGU7XG4gICAgICAgIH1cbiAgICAgICAgLm1ldGEge1xuICAgICAgICAgIHdpZHRoOiA0MCU7XG4gICAgICAgICAgcGFkZGluZzogMjBweDtcbiAgICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0O1xuICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgICBmb250LXNpemU6IDE4O1xuICAgICAgICB9XG4gICAgICBgfTwvc3R5bGU+XG4gICAgPC9kaXY+XG4gICk7XG59O1xuXG5leHBvcnQgZGVmYXVsdCBDaGFydDtcbiJdfQ== */\n/*@ sourceURL=/Users/n86ies/Documents/school/functional-programming/hoorcollege/components/Chart/index.js */"));
+  }, ".chartContainer.jsx-1385540880{width:80vw;height:80vh;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);-webkit-transition:0.3s;transition:0.3s;}.chartContainer.jsx-1385540880:hover{box-shadow:0 8px 16px 0 rgba(0,0,0,0.2);}.chart.jsx-1385540880{width:70%;height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;background:white;}.meta.jsx-1385540880{width:40%;padding:20px;text-align:left;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}span.jsx-1385540880{font-size:19px;line-height:30px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9uODZpZXMvRG9jdW1lbnRzL3NjaG9vbC9mdW5jdGlvbmFsLXByb2dyYW1taW5nL2hvb3Jjb2xsZWdlL2NvbXBvbmVudHMvQ2hhcnQvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBa0NrQixBQUdzQixBQU9nQyxBQUlqQyxBQU9BLEFBUUssVUFkSCxBQU9DLENBbEJELElBMEJLLE9BZEosQ0FYQSxBQWtCRyxTQVFsQixPQVBlLENBYmYsd0RBTTZCLENBWGUsZ0JBbUJwQix1QkFsQk4sd0NBQ2xCLGVBa0J5QixVQVJOLGlCQUNuQix3RUFRQSIsImZpbGUiOiIvVXNlcnMvbjg2aWVzL0RvY3VtZW50cy9zY2hvb2wvZnVuY3Rpb25hbC1wcm9ncmFtbWluZy9ob29yY29sbGVnZS9jb21wb25lbnRzL0NoYXJ0L2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCB7IFJlc3BvbnNpdmVCdWJibGUgfSBmcm9tIFwiQG5pdm8vY2lyY2xlLXBhY2tpbmdcIjtcblxuaW1wb3J0IGRhdGEgZnJvbSBcIi4vZGF0YVwiO1xuXG5jb25zdCBDaGFydCA9ICgpID0+IHtcbiAgY29uc3QgW2Rlc2NyaXB0aW9uLCBzZXREZXNjcmlwdGlvbl0gPSB1c2VTdGF0ZSh7XG4gICAgbmFtZTogXCJEYXRhIHZpc3VhbGlzYXRpZSB2YW4gaG9vcmNvbGxlZ2VzIDExLTExLTIwMTlcIixcbiAgICB0ZXh0OlxuICAgICAgXCJJayBoZWIgZXIgdm9vciBnZWtvemVuIG1pam4gZGF0YXZpc3VhbGlzYXRpZSB2YW4gZGUgaG9vcmNvbGxlZ2VzIHVpdCB0ZSB3ZXJrZW4uIEtsaWsgb3AgZGUgYnViYmVscyBvbSB0ZSBsZXplbiB3YXQgZGUgcHJlc2VudGF0aWVzIHZvb3IgbWlqIGJldGVrZW5kZS5cIlxuICB9KTtcblxuICByZXR1cm4gKFxuICAgIDxkaXYgY2xhc3NOYW1lPVwiY2hhcnRDb250YWluZXJcIj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY2hhcnRcIj5cbiAgICAgICAgPFJlc3BvbnNpdmVCdWJibGVcbiAgICAgICAgICByb290PXtkYXRhfVxuICAgICAgICAgIG1hcmdpbj17eyB0b3A6IDIwLCByaWdodDogMjAsIGJvdHRvbTogMjAsIGxlZnQ6IDIwIH19XG4gICAgICAgICAgaWRlbnRpdHk9XCJuYW1lXCJcbiAgICAgICAgICB2YWx1ZT1cImxvY1wiXG4gICAgICAgICAgY29sb3JzPXt7IHNjaGVtZTogXCJuaXZvXCIgfX1cbiAgICAgICAgICBwYWRkaW5nPXs2fVxuICAgICAgICAgIGxhYmVsVGV4dENvbG9yPXt7IGZyb206IFwiY29sb3JcIiwgbW9kaWZpZXJzOiBbW1wiZGFya2VyXCIsIDAuOF1dIH19XG4gICAgICAgICAgYm9yZGVyV2lkdGg9ezJ9XG4gICAgICAgICAgYW5pbWF0ZT17dHJ1ZX1cbiAgICAgICAgICBtb3Rpb25TdGlmZm5lc3M9ezUwfVxuICAgICAgICAgIG1vdGlvbkRhbXBpbmc9ezEyfVxuICAgICAgICAgIG9uQ2xpY2s9eyh7IGRhdGEgfSkgPT4gY29uc29sZS5sb2coZGF0YSkgfHwgc2V0RGVzY3JpcHRpb24oZGF0YSl9XG4gICAgICAgIC8+XG4gICAgICA8L2Rpdj5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwibWV0YVwiPlxuICAgICAgICA8aDE+e2Rlc2NyaXB0aW9uLm5hbWV9PC9oMT5cbiAgICAgICAgPHNwYW4+e2Rlc2NyaXB0aW9uLnRleHR9PC9zcGFuPlxuICAgICAgPC9kaXY+XG4gICAgICA8c3R5bGUganN4PntgXG4gICAgICAgIC5jaGFydENvbnRhaW5lciB7XG4gICAgICAgICAgd2lkdGg6IDgwdnc7XG4gICAgICAgICAgaGVpZ2h0OiA4MHZoO1xuICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAgYm94LXNoYWRvdzogMCA0cHggOHB4IDAgcmdiYSgwLCAwLCAwLCAwLjIpO1xuICAgICAgICAgIHRyYW5zaXRpb246IDAuM3M7XG4gICAgICAgIH1cbiAgICAgICAgLmNoYXJ0Q29udGFpbmVyOmhvdmVyIHtcbiAgICAgICAgICBib3gtc2hhZG93OiAwIDhweCAxNnB4IDAgcmdiYSgwLCAwLCAwLCAwLjIpO1xuICAgICAgICB9XG5cbiAgICAgICAgLmNoYXJ0IHtcbiAgICAgICAgICB3aWR0aDogNzAlO1xuICAgICAgICAgIGhlaWdodDogMTAwJTtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGp1c3RpZnktY29udGVudDogZmxleC1zdGFydDtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB3aGl0ZTtcbiAgICAgICAgfVxuICAgICAgICAubWV0YSB7XG4gICAgICAgICAgd2lkdGg6IDQwJTtcbiAgICAgICAgICBwYWRkaW5nOiAyMHB4O1xuICAgICAgICAgIHRleHQtYWxpZ246IGxlZnQ7XG4gICAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB9XG4gICAgICAgIHNwYW4ge1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTlweDtcbiAgICAgICAgICBsaW5lLWhlaWdodDogMzBweDtcbiAgICAgICAgfVxuICAgICAgYH08L3N0eWxlPlxuICAgIDwvZGl2PlxuICApO1xufTtcblxuZXhwb3J0IGRlZmF1bHQgQ2hhcnQ7XG4iXX0= */\n/*@ sourceURL=/Users/n86ies/Documents/school/functional-programming/hoorcollege/components/Chart/index.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Chart);
