@@ -1,19 +1,19 @@
 export default {
   name: "Reasons I like data visualisation",
   text:
-    "In mijn 2de jaar heb ik voor het eerst zelf goed met data gewerkt. Ookal was deze data toen nog fictief en door mijzelf gegenereed vond ik het zelf wel heel tof dat het om een database met meer dan 1.000.000 records. Toen ik daarna bij dataweek in de krochten van data.amsterdam ging zoeken en daarna ook nog voor de gemeente Amsterdam ging werken kreeg ik echt een voorliefde voor data. Hoewel data visualisaties mij aanspreken ben ik nog meer geintereseerd in de technieken om er mee te werken. Ik blijf dus het liefst aan de front-end om daar nog meer te leren over werken met data!",
+    "In mijn 2de jaar heb ik voor het eerst zelf goed met data gewerkt. Ookal was deze data toen nog fictief en door mijzelf gegenereed vond ik het zelf wel heel tof dat het om een database met meer dan 10.000.000 records. Toen ik daarna bij dataweek in de krochten van data.amsterdam ging zoeken en daarna ook nog voor de gemeente Amsterdam ging werken kreeg ik echt een voorliefde voor data. Hoewel data visualisaties mij aanspreken ben ik nog meer geintereseerd in de technieken om er mee te werken. Ik blijf dus het liefst aan de front-end om daar nog meer te leren over werken met data!",
   color: "hsl(32, 70%, 50%)",
   children: [
     {
       name: "Joe chrisman",
       text:
-        "Hele interessante spreker. Ik zie gewoon aan hem hoe tof hij het vindt wat hij doet en dat inspireert. ",
+        "Hele interessante spreker. Ik zie gewoon aan hem hoe tof hij het vindt wat hij doet en dat inspireert. Ik ben benieuwd naar zijn inbreng in de projecten die hij heeft laten zien.",
       color: "hsl(32, 70%, 50%)",
       children: [
         {
           name: "Clever * Franke",
           text:
-            "Dit is een bedrijf wat ik met groot interesse zal volgen. Ik ben namelijk zelf vorig jaar al enorm geinspireed door datavisualisatie en weet eigenlijk al zeker dat ik hier ooit al wat mee wil doen. Dit bedrijf en haar website inspireren mij",
+            "Dit is een bedrijf wat ik met groot interesse zal volgen. Ik ben namelijk zelf vorig jaar al enorm geinspireed door datavisualisatie en weet eigenlijk al zeker dat ik hier ooit al wat mee wil doen. Dit bedrijf en haar website inspireren mij. Zeker de omvang van de projecten vind ik leuk om te zien.",
           children: [
             {
               name: "van Leeuwen",
@@ -31,13 +31,13 @@ export default {
               name: "RedBull",
               loc: 80,
               text:
-                "Het Redbull x ADE project lijkt me heel erg tof om te doen. Zelf ben ik niet vies van een feestje en ben daarom erg benieuw naar mijn eigen 'pad' op een feestje. Waar was ik, wanneer danste ik wel/niet. En het lijkt me interessant om te zien wat voor biodata je allemaal zou kunnen weergeven. Verder heb ik ooit al een soort concept bedacht over feestjes met een soort eigen 'timeline' en heb daarom al eens gedacht aan feestjes x data."
+                "Het Redbull x ADE project lijkt me heel erg tof om te doen. Zelf ben ik niet vies van een feestje en ben daarom erg benieuw naar mijn eigen 'pad' op een feestje. Waar was ik, wanneer danste ik wel/niet. En het lijkt me interessant om te zien wat voor biodata je allemaal zou kunnen weergeven. Verder heb ik ooit al een soort concept bedacht over feestjes met een soort eigen 'timeline' en heb daarom al eens gedacht aan feestjes x data. Al is dat nooit iets geweest waar echt potentie in zat vond ik het wel leuk om er over na te denken."
             },
             {
               name: "Dubai",
               loc: 10,
               text:
-                "Hoewel ik denk dat het project zelf echt wel tof is om te doen heb ik het zelf niet helemaal met landen als Dubai, Qatar, UEA etc. Nu scheer ik Dubai misschien teveel over een kam met Qatar maar de verhalen die ik lees over bijvoorbeeld het WK 2020 dan kan ik moeilijk goed praten wat daar gebeurt."
+                "Hoewel ik denk dat het project zelf echt wel tof is om te doen heb ik het zelf niet helemaal met landen als Dubai, Qatar, UEA etc. Deze landen zijn puur gebouwd op olie en er worden doorgaans niet altijd humaan omgegaan met mensenrechten. Ik pas dus."
             }
           ]
         },
@@ -48,7 +48,7 @@ export default {
             {
               name: "Passie",
               text:
-                "Ik zie mijzelf ook wel werken met data en zag enorm veel passie voor wat hij zelf deed. Ik heb zelf ook wel eens gemerkt dat ik er in kon doorslaan, wat een gevaar is maar ook een teken van dat ik er toch wel interesse in heb. Ik kon dromen over data of op de fiets ineens nog een correlatie bedenken. Daarom denk ik dat ik er zeker iets mee wil doen",
+                "Ik zie mijzelf ook wel werken met data en zag enorm veel passie voor wat hij zelf deed. Ik heb zelf ook wel eens gemerkt dat ik er in kon doorslaan, wat een gevaar is maar ook een teken van dat ik er toch wel interesse in heb. Ik kon dromen over data of op de fiets ineens nog een correlatie bedenken. Daarom denk ik dat ik er zeker iets mee wil doen.",
               loc: 100
             },
             {
